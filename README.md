@@ -17,3 +17,7 @@
 - Make a comparison to find the percentage of usage for customer and subscriber
 - Calculate the age of all users and show the relation between the distance and the age
 - Prepare the presentation
+## Week 4 (Team Leader: Faiza Azami)
+- Calculate the total cost for all customers and all subscribers
+- Analyze how often bikes are being rented ( morning - afternoon - evening) and and find the density for each hour of the day
+- Find if there is a relation between the time and start stations
